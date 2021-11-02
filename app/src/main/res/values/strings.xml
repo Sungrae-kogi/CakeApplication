@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">케이크 가게</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="register">회원가입</string>
+    <string name="to_main_page">메인 페이지로</string>
+    <string name="password_confirm">비밀번호 확인</string>
+    <string name="phone">전화번호</string>
+    <string name="address">주소</string>ㅡ 가게
+    <string name="name">이름</string>
+    <string name="add">추가</string>
+    <string name="remove">삭제</string>
+    <string name="profile">회원정보</string>
+    <string name="policy">1. 개인정보의 처리 목적\n본 어플리케이션에서 개인정보는 회원정보 기록하고 조회하기 위하여 처리됩니다.\n\n2. 개인정보의 처리 및 보유 기간\n본 어플리케이션에서 개인정보는 제3자에게 제공되지 않습니다\n\n</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+</resources>
